@@ -14,5 +14,5 @@ Built with **HTML, CSS, and JavaScript**.
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/subscription-tracker.git
+   git clone https://github.com/24it076-oss/subscription-tracker.git
 # subscription-tracker
